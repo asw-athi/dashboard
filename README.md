@@ -1,2 +1,2 @@
 # dashboard
-I created a dashboard using Power BI from a customer service dataset 
+I created a dashboard using Power BI from a customer call center dataset 
